@@ -6,10 +6,10 @@
 </p>
 
 ### Broaden Perspective
-- [X] [Book: Atomic Habits](https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299)
-- [X] [Book: Deep Work](https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/1455586692)
-- [X] [Book: Emotional Intelligence](https://www.amazon.com/Emotional-Intelligence-Matter-More-Than/dp/055338371X)
-- [X] [Book: Good to Great: Why Some Companies Make the Leap...And Others Don't ](https://www.amazon.com/Good-Great-Some-Companies-Others-ebook/dp/B0058DRUV6)
+- [ ] [Book: Atomic Habits](https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299)
+- [ ] [Book: Deep Work](https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/1455586692)
+- [ ] [Book: Emotional Intelligence](https://www.amazon.com/Emotional-Intelligence-Matter-More-Than/dp/055338371X)
+- [ ] [Book: Good to Great: Why Some Companies Make the Leap...And Others Don't ](https://www.amazon.com/Good-Great-Some-Companies-Others-ebook/dp/B0058DRUV6)
 - [X] [Book: How to Win Friends & Influence People](https://www.amazon.com/How-Win-Friends-Influence-People/dp/0671027034)
 - [X] [Book: How Google Works](https://www.howgoogleworks.net/)
 - [X] [Book: Leaders Eat Last: Why Some Teams Pull Together and Others Don't](https://www.amazon.com/Leaders-Eat-Last-Together-Others/dp/1591848016)
